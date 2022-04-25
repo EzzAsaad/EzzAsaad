@@ -163,6 +163,6 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=ezzasaad&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/EzzAsaad)
+[![](https://github-readme-stats.vercel.app/api?username=ezzasaad&show_icons=true&theme=tokyonight&locale=en)](https://github.com/EzzAsaad)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ezzasaad&theme=material-palenight)](https://github.com/EzzAsaad)
 </div>
