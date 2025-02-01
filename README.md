@@ -15,7 +15,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages</h3>
 
 <p align="center">
   <a href="https://www.java.com" target="_blank">
@@ -33,6 +33,38 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
   </a>
+</p>
+
+---
+
+<h3 align="center">Frontend</h3>
+
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+  </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/>
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/angular-white.svg?style=for-the-badge&logo=angular&logoColor=C4232F" alt="angular"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/vue.js-white.svg?style=for-the-badge&logo=vue.js&logoColor=C4232F" alt="vue.js"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">Backend</h3>
+
+<p align="center">
   <a href="https://nodejs.org" target="_blank">
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
   </a>
@@ -48,12 +80,26 @@
   <a href="https://laravel.com/" target="_blank">
     <img src="https://img.shields.io/badge/laravel-FDEAE8.svg?style=for-the-badge&logo=laravel&logoColor=red" alt="laravel"/>
   </a>
+</p>
+
+---
+
+<h3 align="center">Database</h3>
+
+<p align="center">
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
   </a>
+</p>
+
+---
+
+<h3 align="center">Cloud & Hosting</h3>
+
+<p align="center">
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-white.svg?style=for-the-badge&logo=firebase&logoColor=FACC31" alt="firebase"/>
   </a>
@@ -63,12 +109,29 @@
   <a href="https://heroku.com" target="_blank">
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/>
   </a>
+</p>
+
+---
+
+<h3 align="center">Version Control & CI/CD</h3>
+
+<p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
+  <a href="https://bitbucket.org/" target="_blank">
+    <img src="https://img.shields.io/badge/BitBucket-white.svg?style=for-the-badge&logo=bitbucket&logoColor=blue" alt="bitbucket"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">Preferred IDEs & Tools</h3>
+
+<p align="center">
   <a href="https://eclipse.org" target="_blank">
     <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/>
   </a>
@@ -100,12 +163,3 @@
 </div>
 
 ---
-
-<!--
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=ezzasaad&show_icons=true&theme=tokyonight&locale=en)](https://github.com/EzzAsaad)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=ezzasaad&theme=material-palenight)](https://github.com/EzzAsaad)
-</div>
--->
