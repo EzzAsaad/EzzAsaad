@@ -124,7 +124,7 @@
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://bitbucket.org/" target="_blank">
-    <img src="https://img.shields.io/badge/BitBucket-181717.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/BitBucket-white.svg?style=for-the-badge&logo=bitbucket&logoColor=blue" alt="github" />
   </a>
 </p>
 
