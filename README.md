@@ -62,6 +62,9 @@
   <a href="https://angular.io/" target="_blank">
     <img src="https://img.shields.io/badge/angular-white.svg?style=for-the-badge&logo=angular&logoColor=C4232F" alt="jquery"/> 
   </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/vue.js-white.svg?style=for-the-badge&logo=vue.js&logoColor=C4232F" alt="jquery"/> 
+  </a>
 </p>
 
 <h3 align="center">Backend</h3>
