@@ -9,8 +9,6 @@
 <h1><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezzasaad" alt="ezzasaad" /></a> </p>
 </h1>
 
-- 🤝 I’m looking for help with **Backend Design**
-
 - 👨‍💻 All of my projects are available [@EzzAsaad](https://www.github.com/EzzAsaad)
 
 - 💬 Ask me about **System Designs**
